@@ -93,11 +93,12 @@ a.link:hover{
     background-color:white;
     border-right: none;
 }
-div iframe{
+iframe{
     margin-top: 0.3vw;
-    margin-left: 30vw;
-    margin-right: 30vw;
+    margin-left: 20vw;
     border: 2px solid black;
+    width:40vw; 
+    height:24vw;"
 }
 .naj{
     color:rgb(3, 191, 248);
